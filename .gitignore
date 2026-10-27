@@ -1,0 +1,27 @@
+# Steam Downloader ayarları (Steam şifresi/kullanıcı adı içerebilir!)
+settings.json
+error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# İşletim sistemi dosyaları
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Yerel araçlar ve dağıtım çıktıları
+.idea/
+.vscode/
+build/
+dist/
+*.spec
+*.egg-info/
+.pytest_cache/
+.mod-transfer-*/
